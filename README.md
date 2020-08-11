@@ -1,7 +1,7 @@
 # JobSearch Automation
 <h1 align="center">
   <br>
-<img src="/images.png" width="160">
+<img src="/images/img.png" width="160">
 </h1>
 
 <h4 align="center">Code to automate the collection of LinkedIn's job listings.</h4>
