@@ -3,7 +3,7 @@ import pandas as pd
 from selenium import webdriver
 from directory import EXCEL_PATH, CONFIG_FILE
 
-browser = webdriver.Chrome('/Users/bryanevangelista/.pyenv/versions/3.8.2/envs/scrape/chromedriver')
+browser = webdriver.Chrome('') ## add filepath to chrome's webdriver
 
 class Browser_ctrls:
   def __init__(self):
