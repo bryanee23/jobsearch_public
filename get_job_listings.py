@@ -27,7 +27,7 @@ class LinkedIn_jobs(Browser_ctrls):
     footer_element = browser.find_element_by_xpath("//footer [@class='global-footer-compact ember-view']")
 
     action = ActionChains(browser)
-    action.move_to_element(start).click_and_hold(start).move_to_element(footer_element).release().perform()
+    action.move_to_element(start).click_and_hold(start).move_by_offset(0,100).release().move_to_element(footer_element).release().perform()
 
     self.pause()
 

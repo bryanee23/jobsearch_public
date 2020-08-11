@@ -1,12 +1,9 @@
 TARGET_PAGE = {
   'CONFIG_PATH': 'system files/config',
-  'NUMBER_OF_PAGES' : 0, ### update number of pages
+  'NUMBER_OF_PAGES' : 2, ### update number of pages
   'TITLE' : 'Job Listings - ML',
   'URL' : '' ## add URL
 }
-
-########################################################################
-
 
 TARGET_URL = TARGET_PAGE['URL']
 
