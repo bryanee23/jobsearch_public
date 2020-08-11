@@ -48,16 +48,32 @@ ___
 - Place mouse on the left margin of the page to prevent unwanted clicks
 
 
-## Notes
+### Notes
+
 - Original repo and working docs is on a private repo to keep my info secure
-___
+
+---
 
 ### Demo
+
 <h1 align="center">
   <br>
 <img src="/images/jobsearch_public.gif">
 </h1>
+
 - Video speed setting is on cheetah on coffee mode to keep file size small
+
 - Run time of algorithm = ~26 mins
+
 - <a href="https://drive.google.com/file/d/1Mtl1elcg69WEoGcxJhD6v-uYRDoWORDa/view?usp=sharing">Demo Video</a>
+
+--- 
+## Credit
+- Thank you to all of the folks who created youtube videos, wrote Medium articles, and posted on stackoverflow.
 <br/>
+
+---
+
+## License
+MIT  © 2020 [Bryan Evangelista](https://www.linkedin.com/in/bryanevangelista/)
+
