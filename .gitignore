@@ -1,16 +1,6 @@
-page.py
 config.txt
 config2.txt
-keywords.txt
-connections.txt
-connections.csv
-output.xlsx
 
-messages/
-excels/
-
-archive/
-test/
 # Editors
 .vscode/
 
